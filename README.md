@@ -8,9 +8,11 @@
 - 😄 How to reach me: [Twitter](https://twitter.com/huykira) [LinkedIn](https://www.linkedin.com/in/huykira/) [Facebook](https://www.facebook.com/huykira)
 - ⚡ Fun fact: I'm afraid of snakes :(
 
-<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=f9322c" alt="WordPress logo" title="WordPress" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=f9322c" alt="Laravel logo" title="Laravel" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=00758f" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp;
